@@ -1,4 +1,21 @@
-preprocess/resource/
+preprocess/resource/deepjit_data
+preprocess/resource/its_data
+preprocess/resource/no_its_data
+preprocess/resource/in_its_data
+preprocess/resource/preprocess_data
+
+learning/in_its/best_model
+learning/in_its/pred
+learning/in_its/resource
+learning/in_its/score
+
+learning/no_its/best_model
+learning/no_its/pred
+learning/no_its/resource
+learning/no_its/score
+
+learning/log/
+
 *.txt
 # Byte-compiled / optimized / DLL files
 __pycache__/
